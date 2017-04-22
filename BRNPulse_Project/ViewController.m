@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"this is first time added by naresh");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
